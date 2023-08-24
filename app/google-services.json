@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465998710565",
+    "project_id": "desarrollomovilnativo-bcaf7",
+    "storage_bucket": "desarrollomovilnativo-bcaf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465998710565:android:952e35fa7f997a67a93ccc",
+        "android_client_info": {
+          "package_name": "co.edu.sena.appbibihernandez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465998710565-dscl4c8dt2p3b18td8iep1iqlqlig05f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEf_n_j7Ful1H_umGi9xQ7JYr2dEnVVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465998710565-dscl4c8dt2p3b18td8iep1iqlqlig05f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
